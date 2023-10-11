@@ -34,7 +34,7 @@ countdownDay = "25"
 # About Section
 [params.about]
 enable = true
-heading = "Our mission is to empower scientists, researchers, educators, and curious minds to delve deeper into the mysteries of the universe. With our state-of-the-art microscope, we're on the cusp of introducing a groundbreaking tool that will revolutionize the way you explore the microscopic world."
+heading = "Our mission is to empower scientists, researchers, educators, and curious minds to delve deeper into the mysteries of the universe."
 description = "With the 'Zoom In on the Future of Science' microscope, we're not just providing a scientific instrument; we're enabling a new era of discovery. Join us on this exciting journey as we prepare to unveil a product that will change the course of scientific exploration. Stay connected, stay curious, and get ready to embrace the future of science.<br><br>The microscope of tomorrow is almost here. Are you ready to zoom in and witness the revolution?"
 
 [[params.about.sliderItem]]
