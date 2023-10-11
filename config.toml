@@ -85,7 +85,7 @@ delay = "0.4s"
 # give icon(themefisher icon font), title, description
 # more about themefisher icon font visit https://github.com/themefisher/themefisher-font
 # use delay for reveal items one by one
-icon = "tf-lightbulb"
+icon = "tf-linegraph"
 title = "Image Analysis"
 description = "Providing software solutions for image capture, processing, and analysis, enhancing the capabilities of the microscope."
 delay = "0.6s"
@@ -97,9 +97,9 @@ delay = "0.6s"
 enable = true
 bg = "images/call-to-action.jpg"
 title = "Subscribe to our mailing list"
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
+subtitle = "Subscribe today to be among the first to witness the groundbreaking innovation in microscopy. Get ready to explore the unseen, dive into the microscopic world, and revolutionize your research."
 
 [params.contact]
 enable = true
 title = "Get In Touch"
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex"
+subtitle = "Feel free to reach out with any inquiries, requests, or collaboration opportunities. We value your curiosity and are excited to be part of your scientific endeavors."
