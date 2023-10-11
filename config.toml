@@ -50,8 +50,10 @@ image = "images/about/2.jpg"
 # Service Section
 [params.service]
 enable = true
-title = "Find Better Solutions Build Better Products"
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et"
+title = " Explore the Invisible with Our Microscope"
+subtitle = "These services are crucial for ensuring the successful use and longevity of microscope products in various scientific and research applications."
+
+
 [[params.service.serviceItem]]
 # give icon(themefisher icon font), title, description
 # more about themefisher icon font visit https://github.com/themefisher/themefisher-font
@@ -84,7 +86,7 @@ delay = "0.4s"
 # more about themefisher icon font visit https://github.com/themefisher/themefisher-font
 # use delay for reveal items one by one
 icon = "tf-globe"
-title = "Image Analysis Software"
+title = "Image Analysis"
 description = "Providing software solutions for image capture, processing, and analysis, enhancing the capabilities of the microscope."
 delay = "0.6s"
 
