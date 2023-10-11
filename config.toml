@@ -58,7 +58,7 @@ subtitle = "These services are crucial for ensuring the successful use and longe
 # give icon(themefisher icon font), title, description
 # more about themefisher icon font visit https://github.com/themefisher/themefisher-font
 # use delay for reveal items one by one
-icon = "tf-strategy"
+icon = "tf-book"
 title = "Product Training"
 description = "Offering training sessions to users on how to properly operate and maintain the microscope, ensuring optimal performance and longevity."
 delay = "0s"
