@@ -58,7 +58,7 @@ subtitle = "These services are crucial for ensuring the successful use and longe
 # give icon(themefisher icon font), title, description
 # more about themefisher icon font visit https://github.com/themefisher/themefisher-font
 # use delay for reveal items one by one
-icon = "tf-book"
+icon = "tf-document3"
 title = "Product Training"
 description = "Offering training sessions to users on how to properly operate and maintain the microscope, ensuring optimal performance and longevity."
 delay = "0s"
@@ -67,7 +67,7 @@ delay = "0s"
 # give icon(themefisher icon font), title, description
 # more about themefisher icon font visit https://github.com/themefisher/themefisher-font
 # use delay for reveal items one by one
-icon = "tf-circle-compass"
+icon = "tf-gears"
 title = "Calibration and Maintenance"
 description = "Providing regular calibration and maintenance services to keep the microscope functioning at its best."
 delay = "0.2s"
@@ -76,7 +76,7 @@ delay = "0.2s"
 # give icon(themefisher icon font), title, description
 # more about themefisher icon font visit https://github.com/themefisher/themefisher-font
 # use delay for reveal items one by one
-icon = "tf-anchor2"
+icon = "tf-tools"
 title = "Technical Support"
 description = "Offering technical support and assistance for troubleshooting issues and answering user queries."
 delay = "0.4s"
@@ -85,7 +85,7 @@ delay = "0.4s"
 # give icon(themefisher icon font), title, description
 # more about themefisher icon font visit https://github.com/themefisher/themefisher-font
 # use delay for reveal items one by one
-icon = "tf-globe"
+icon = "tf-lightbulb"
 title = "Image Analysis"
 description = "Providing software solutions for image capture, processing, and analysis, enhancing the capabilities of the microscope."
 delay = "0.6s"
