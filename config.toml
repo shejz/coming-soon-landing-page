@@ -51,7 +51,7 @@ image = "images/about/2.jpg"
 [params.service]
 enable = true
 title = " Explore the Invisible with Our Microscope"
-description = "These services are crucial for ensuring the successful use and longevity of microscope products in various scientific and research applications."
+subtitle = "These services are crucial for ensuring the successful use and longevity of microscope products in various scientific and research applications."
 
 
 [[params.service.serviceItem]]
